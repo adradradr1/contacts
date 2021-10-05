@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QB1AzCZt5pM8u8+OZZdrDwMiIhFqXQbKC4emQeMAFh5EJMbP+s/5aejZHy4mBq1/d+PWn90Ke44ZhlfGN4nFFg==",
+  "success": true,
+  "projectFilePath": "/Users/adriannowakowski/Projects/Contacts/Contacts.iOS/Contacts.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/adriannowakowski/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/adriannowakowski/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/adriannowakowski/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

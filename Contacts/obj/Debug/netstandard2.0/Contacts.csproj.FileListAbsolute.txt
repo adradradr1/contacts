@@ -1,0 +1,15 @@
+/Users/adriannowakowski/Projects/Contacts/Contacts/bin/Debug/netstandard2.0/Contacts.deps.json
+/Users/adriannowakowski/Projects/Contacts/Contacts/bin/Debug/netstandard2.0/Contacts.dll
+/Users/adriannowakowski/Projects/Contacts/Contacts/bin/Debug/netstandard2.0/ref/Contacts.dll
+/Users/adriannowakowski/Projects/Contacts/Contacts/bin/Debug/netstandard2.0/Contacts.pdb
+/Users/adriannowakowski/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.csproj.AssemblyReference.cache
+/Users/adriannowakowski/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adriannowakowski/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/adriannowakowski/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/adriannowakowski/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.AssemblyInfoInputs.cache
+/Users/adriannowakowski/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.AssemblyInfo.cs
+/Users/adriannowakowski/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.csproj.CoreCompileInputs.cache
+/Users/adriannowakowski/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/adriannowakowski/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.dll
+/Users/adriannowakowski/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/ref/Contacts.dll
+/Users/adriannowakowski/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.pdb

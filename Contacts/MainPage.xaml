@@ -6,6 +6,8 @@
     <StackLayout BackgroundColor="Aqua">
         <Label  Text="Hello world"/>
         <Button BackgroundColor="Beige"  HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Text="click me"/>
+        <Button BackgroundColor="Beige"  HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Text="click me"/>
+
     </StackLayout>
 
 </ContentPage>

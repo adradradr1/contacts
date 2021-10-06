@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+
+using Xamarin.Forms;
+
+namespace Contacts
+{
+    public partial class Page2 : ContentPage
+    {
+        public Page2()
+        {
+            InitializeComponent();
+        }
+
+        async void BackToMainPage(object sender, EventArgs e)
+        {
+
+            await Navigation.PopAsync();
+        }
+    }
+}

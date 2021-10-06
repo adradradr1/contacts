@@ -13,3 +13,4 @@
 /Users/adriannowakowski/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.dll
 /Users/adriannowakowski/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/ref/Contacts.dll
 /Users/adriannowakowski/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.pdb
+/Users/adriannowakowski/Projects/Contacts/Contacts/obj/Debug/netstandard2.0/Page2.xaml.g.cs

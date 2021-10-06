@@ -7,7 +7,6 @@
         <Label HorizontalOptions="Center" Text="Hello world"/>
         <Button BackgroundColor="Beige"  HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Text="Página 2" Clicked="ToPage2"/>
         <Button BackgroundColor="Beige"  HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Text="click me"/>
-
     </StackLayout>
 
 </ContentPage>

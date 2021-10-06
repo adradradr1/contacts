@@ -10,6 +10,9 @@ namespace Contacts
         public Page2()
         {
             InitializeComponent();
+            label.BindingContext = slider;
+            label.SetBinding(Label.RotationProperty, "Value");
+
         }
 
         async void BackToMainPage(object sender, EventArgs e)

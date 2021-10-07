@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Contacts/Page2.xaml.cs">
     <Files>
       <File FileName="Contacts/MainPage.xaml.cs" Line="21" Column="49" />
-      <File FileName="Contacts/MainPage.xaml" Line="13" Column="1" />
-      <File FileName="Contacts/Page2.xaml" Line="12" Column="5" />
+      <File FileName="Contacts/MainPage.xaml" />
+      <File FileName="Contacts/Page2.xaml" />
       <File FileName="Contacts/Page2.xaml.cs" Line="25" Column="1" />
     </Files>
     <Pads>
@@ -21,15 +21,12 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Contacts.Android PreferredExecutionTarget="Android.SelectDevice" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Contacts.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.84727758-073F-41AA-936A-97AB91298ECB" />
+  <MonoDevelop.Ide.ItemProperties.Contacts.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6D98B3FE-6CA4-4667-9AEA-4E9E9274E1C1" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

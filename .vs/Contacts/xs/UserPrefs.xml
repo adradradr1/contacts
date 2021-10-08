@@ -1,20 +1,18 @@
 ﻿<Properties StartupConfiguration="{4321DABC-99FE-4687-8A80-63406701FBB5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Contacts/Page2.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Contacts/readmeee">
     <Files>
       <File FileName="Contacts/MainPage.xaml.cs" Line="21" Column="49" />
-      <File FileName="Contacts/MainPage.xaml" />
-      <File FileName="Contacts/Page2.xaml" />
+      <File FileName="Contacts/MainPage.xaml" Line="13" Column="1" />
+      <File FileName="Contacts/Page2.xaml" Line="10" Column="65" />
       <File FileName="Contacts/Page2.xaml.cs" Line="25" Column="1" />
+      <File FileName="Contacts/readmeee" Line="2" Column="11" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Contacts" expanded="True">
             <Node name="Contacts" expanded="True">
-              <Node name="MainPage.xaml" expanded="True" />
-              <Node name="Page2.xaml" expanded="True">
-                <Node name="Page2.xaml.cs" selected="True" />
-              </Node>
+              <Node name="readmeee" selected="True" />
             </Node>
             <Node name="Contacts.Android" expanded="True" />
             <Node name="Contacts.iOS" expanded="True" />

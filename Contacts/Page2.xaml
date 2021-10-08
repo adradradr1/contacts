@@ -6,7 +6,7 @@
 
     <StackLayout Padding="5" BackgroundColor="Aqua">
         <Label HorizontalOptions="Center" Text="Hello world"/>
-        <Label HorizontalOptions="Center" Text="Hello world 2"/>
+        
         <Button BackgroundColor="Beige"  HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Text="Volver a página principal" Clicked="BackToMainPage"/>
         <Label x:Name="label" Text="ejemplo biding" FontSize="48" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
         <Slider x:Name="slider" Maximum="360" VerticalOptions="CenterAndExpand" />
